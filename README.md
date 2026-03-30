@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (Cyber Security) @ SRM Institute of Science and Technology | 2nd Year | CGPA: 9.67  
 🔐 Aspiring cybersecurity professional with a passion for ethical hacking, digital forensics & CTFs  
-🛡️ Currently diving into: Penetration Testing · AI × Cybersecurity
+🛡️ Currently diving into: Penetration Testing · AI × Cybersecurity<br>
 📫 Reach me at: arushisaxena612@gmail.com
 
 
