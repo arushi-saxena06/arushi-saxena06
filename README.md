@@ -37,6 +37,8 @@
 ![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=flat)
 
 **Tools & Platforms**  
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
+![picoCTF](https://img.shields.io/badge/picoCTF-2E8B57?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
